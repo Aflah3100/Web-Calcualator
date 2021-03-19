@@ -1,0 +1,69 @@
+body{
+    background-image: url('https://img.freepik.com/free-vector/background-technology-data-network_49459-524.jpg?size=626&ext=jpg');
+}
+
+.main{
+
+    width: 400px;
+    height: 530px;
+    background-color: lightgrey;
+    border: solid 2px;
+    margin-left: 420px;
+    margin-top: 70px;
+    background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg');
+
+}
+
+#input{
+
+    width: 370px;
+    height: 55px;
+    margin: 10px;
+    background-color: lightblue;
+    pointer-events: none;
+    font-weight: 700;
+    font-size: larger;
+
+
+}
+#contr1{
+    border-radius: 20px;
+    margin-left: 100px;
+    width: 200px;
+    background-color: lightgreen;
+}
+
+#contr2{
+
+    border: solid 2px;
+    margin-left: 50px;
+    background-color: red;
+
+}
+
+.button{
+
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    border: solid 3px;
+    background-color: lightslategray;
+    font-weight: 600;
+}
+
+.finbut{
+
+    width: 40%;
+    height: 50px;
+    margin-left: 40px;
+    margin-top: 30px;
+    border:solid 3px;
+    background-color: lightseagreen;
+
+}
+
+
+
+
+
